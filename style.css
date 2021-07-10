@@ -237,7 +237,7 @@ footer {
   justify-content: space-between;
   align-items: center;
   height: 160px;
-  padding: 0px 20px;
+  padding: 12px;
   background-color: #CF6336;
 }
 
@@ -337,6 +337,12 @@ footer div {
 
   .moremore p {
     padding: 0 1rem;
+  }
+
+  .footer__info div{
+    margin-top: 8px;
+    font-size: 14px;
+    letter-spacing: 1px;
   }
 }
 
