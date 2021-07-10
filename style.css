@@ -254,9 +254,6 @@ footer div {
   text-align: right;
 }
 
-
-
-
 .img-fluid {
   margin: 48px 0;
 }
@@ -301,6 +298,45 @@ footer div {
     height: 100px;
     padding: 0px 10px;
     background-color: #CF6336;
+  }
+
+  .extra {
+    margin: 4rem 0 12rem 0 ;
+  }
+
+  .large {
+    font-size: 1.23rem;
+    line-height: 1.2;
+    letter-spacing: 5px;
+  }
+  
+  .middle {
+    font-size: 1.1rem;
+    letter-spacing: 2px;
+  }
+
+  .bar__word {
+    color: white;
+    max-width: 90%;
+    background-color: #CF6336;
+    padding: 1rem 1rem;
+    border-radius: 124px;
+    -webkit-border-radius: 124px;
+    -moz-border-radius: 124px;
+    -ms-border-radius: 124px;
+    -o-border-radius: 124px;
+  }
+
+  .longlong {
+    display: flex;
+    height: 48px;
+    height: 32px;
+    margin: 2rem 0;
+    justify-content: space-between;
+  }
+
+  .moremore p {
+    padding: 0 1rem;
   }
 }
 
