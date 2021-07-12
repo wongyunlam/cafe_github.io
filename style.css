@@ -257,6 +257,68 @@ footer div {
   margin: 48px 0;
 }
 
+.section__images {
+  display: flex;
+}
+
+.section__images div {
+  width: 50%;
+}
+
+.section__images img {
+  width: 100%;
+}
+
+.orange__background {
+  background: #CF6336;
+  padding: 3rem 2rem;
+}
+
+.section__images div p {
+  color: #E9E7D8;
+  font-size: 16px;
+}
+
+.mid {
+  width: 55%;
+  background: #CF6336;
+  color:#E9E7D8;
+  letter-spacing: 2px;
+  white-space: pre-wrap;
+  text-align: start;
+  padding: 5rem 2.5rem 0 2.5rem;
+}
+
+.example__section {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+}
+
+.midd {
+  width: 52%;
+  background: #CF6336;
+  color:#E9E7D8;
+  letter-spacing: 2px;
+  white-space: pre-wrap;
+  text-align: start;
+  padding: 3rem 2.5rem 0 2.5rem;
+}
+
+.test {
+  width: 48%;
+}
+
+.test img {
+  width: 100%;
+}
+
+
+
+
+
+
+
 @media screen and (max-width: 768px) {
   .inside__circle {
     width: 80%;
@@ -341,6 +403,31 @@ footer div {
     margin-top: 8px;
     font-size: 14px;
     letter-spacing: 1px;
+  }
+
+  .example__section  {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .reverse {
+    flex-direction:column-reverse
+  }
+
+  .mid {
+    width: 100%;
+    padding: 2rem 1.25rem 0 1.5rem;
+    white-space: pre-line;
+  }
+
+  .midd {
+    width: 100%;
+    padding: 2rem 1.25rem 0 1.5rem
+  }
+
+  .test {
+    width: 90%;
+    margin: 24px;
   }
 }
 
