@@ -365,7 +365,7 @@ footer div {
   }
 
   .longlong img {
-    margin: 0 1rem 1rem 1rem
+    margin: 0 1rem 1rem 0.4rem
   }
 
   .Q {
@@ -428,7 +428,6 @@ footer div {
     height: 32px;
     margin: 2rem 0;
   }
-
 
   .moremore p {
     padding: 0 1rem;
