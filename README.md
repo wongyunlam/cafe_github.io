@@ -1,6 +1,6 @@
 # 極簡咖啡募資計劃
 
-# [Address](https://wongyunlam.github.io/cafe_github.io/)
+# [Address of "極簡咖啡募資計劃"](https://wongyunlam.github.io/cafe_github.io/)
 
 
 ## Just using simple HTML & CSS to build a webpage to raise funds for the cafe - "極簡咖啡".
